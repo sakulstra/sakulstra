@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  [<img alt="sakulstra's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sakulstra&show_icons=true&count_private=true">](#)
+  
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  
+  [<img alt="sakulstra's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakulstra&layout=compact">](#)
+  
+</details>
