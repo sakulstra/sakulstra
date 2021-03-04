@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Just testing around - these metrics are shit.
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
